@@ -1,0 +1,7 @@
+langchain
+litellm
+gradio
+numpy
+pandas
+openai
+fireworks-ai
